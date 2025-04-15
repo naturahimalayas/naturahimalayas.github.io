@@ -1,1 +1,2 @@
-# Hi, I am Dr. Aaratrik Pal, and have purseued my PhD in Plant taxonomy, from University of North Bengal. 
+### Hi, I am Dr. Aaratrik Pal, and have pursued my PhD in Angiosperm taxonomy, from University of North Bengal. However, I've been broadly interested in flowering plants, small cryptogams, birds, insects, reptiles and snakes from my young age. Equally I've been a photography enthusiast.
+### With time I started to find butterflies, damselflies and dragonflies most interesting. Eventually, I developed strong feelings for photographing butterflies, damselflies and dragonflies.
