@@ -22,13 +22,8 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 
- social_links:
-    #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-    #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-    - { platform: flickr,         user_url: "https://www.flickr.com/photos/161022353@N02" }
-    - { platform: github, user_url: "https://github.com/naturahimalayas" }
-    #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/natura_himalayas" }
-    #  - { platform: keybase,        user_url: "https://keybase.io/naturahimalayas" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/natura_himalayas" }
+social_links:
+- { platform: flickr,         user_url: "https://www.flickr.com/photos/161022353@N02" }
+- { platform: github, user_url: "https://github.com/naturahimalayas" }
+- { platform: instagram,      user_url: "https://www.instagram.com/natura_himalayas" }
+- { platform: youtube,        user_url: "https://www.youtube.com/natura_himalayas" }
