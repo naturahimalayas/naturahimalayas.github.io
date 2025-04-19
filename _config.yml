@@ -1,4 +1,5 @@
 title: Natura Himalayas
+subtitle: Glimpage of Himalayan nature
 author:
   name: Aaratrik Pal
   email: 
@@ -26,10 +27,8 @@ minima:
   - title: Natura Himalayas on YouTube
     icon: youtube
     url: "https://www.youtube.com/natura_himalayas"
-  nav_pages:
-  - about.md
-  show_excerpts: false
-  hide_site_feed_link: true
+    show_excerpts: false
+    hide_site_feed_link: true
 
 
 
