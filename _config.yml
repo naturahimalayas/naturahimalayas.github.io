@@ -1,12 +1,12 @@
 title: Natura Himalayas
 author:
-   name: Aaratrik Pal
-   email: 
+name: Aaratrik Pal
+email: 
 description: >
 About Himalayan biodiversity, focusing of flowering plants, flying jewels (butterflies, damselflies, and dragonflies).
 
    
 remote_theme: "jekyll/minima@1e8a445"
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-feed
+- jekyll-seo-tag
