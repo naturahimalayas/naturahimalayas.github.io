@@ -3,7 +3,12 @@ author:
   name: Aaratrik Pal
   email: 
 description: About Himalayan biodiversity, focusing of flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
-show_excerpts: false
+
+
+remote_theme: "jekyll/minima@1e8a445"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: solarized-light
@@ -21,14 +26,11 @@ minima:
   - title: Natura Himalayas on YouTube
     icon: youtube
     url: "https://www.youtube.com/natura_himalayas"
-nav_pages:
+  nav_pages:
   - about.md
-
-remote_theme: "jekyll/minima@1e8a445"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  show_excerpts: false
+  hide_site_feed_link: true
 
 
 
-hide_site_feed_link: true
+
