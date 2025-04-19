@@ -5,7 +5,7 @@ email:
 description: About Himalayan biodiversity, focusing of flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
 
 minima:
-  skin: classic
+  skin: solarized-light
   date_format: "%b %-d, %Y"
   social_links:
     github: naturahimalayas
