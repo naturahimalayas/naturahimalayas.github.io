@@ -1,33 +1,33 @@
 title: Natura Himalayas
 author:
-name: Aaratrik Pal
-email: 
+  name: Aaratrik Pal
+  email: 
 description: About Himalayan biodiversity, focusing of flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
-instagram_username: natura_himalayas
-youtube_username: natura_himalayas
-github_username:  naturahimalayas
 
 minima:
   skin: solarized-light
   date_format: "%b %-d, %Y"
+nav_pages:
+  - about.md
+show_excerpts: false
 
 remote_theme: "jekyll/minima@1e8a445"
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 social_links:
-- title: Aaratrik Pal on Flickr
-  icon: flickr
-  url: "https://www.flickr.com/photos/161022353@N02"
-- title: Aaratrik Pal at GitHub
-  icon: github
-  url: "https://github.com/naturahimalayas"
-- title: Natura Himalayas on Instagram
-  icon: instagram
-  url: "https://www.instagram.com/natura_himalayas"
-- title: Natura Himalayas on YouTube
-  icon: youtube
-  url: "https://www.youtube.com/natura_himalayas"
+  - title: Natura Himalayas on Instagram
+    icon: instagram
+    url: "https://www.instagram.com/natura_himalayas"
+  - title: Aaratrik Pal on Flickr
+    icon: flickr
+    url: "https://www.flickr.com/photos/161022353@N02"
+  - title: Aaratrik Pal at GitHub
+    icon: github
+    url: "https://github.com/naturahimalayas"
+  - title: Natura Himalayas on YouTube
+    icon: youtube
+    url: "https://www.youtube.com/natura_himalayas"
 
 hide_site_feed_link: true
