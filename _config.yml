@@ -11,12 +11,6 @@ minima:
   skin: solarized-light
   date_format: "%b %-d, %Y"
 
-social_links:
-    flickr: Aaratrik Pal
-    github:  naturahimalayas
-    instagram: natura_himalayas
-    youtube: naturah_imalayas
-   
 remote_theme: "jekyll/minima@1e8a445"
 plugins:
 - jekyll-feed
@@ -36,3 +30,4 @@ social_links:
   icon: youtube
   url: "https://www.youtube.com/natura_himalayas"
 
+hide_site_feed_link: true
