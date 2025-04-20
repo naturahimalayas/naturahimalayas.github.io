@@ -16,8 +16,8 @@ minima:
 
   nav_pages:
     - butterflies.md
-    - photography.md
     - odonates.md
+    - photography.md
     - about.md
     # - portfolio.md
 
@@ -37,6 +37,6 @@ minima:
     url: "https://github.com/naturahimalayas"
   - title: Natura Himalayas on YouTube
     icon: youtube
-    url: "https://www.youtube.com/natura_himalayas"
+    url: "https://www.youtube.com/@natura_himalayas"
 
     hide_site_feed_link: true
