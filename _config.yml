@@ -3,7 +3,7 @@ subtitle: Glimpage of Himalayan nature
 author:
   name: Aaratrik Pal
   email: 
-description: About Himalayan biodiversity, focusing of flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
+description: About Himalayan biodiversity, focusing on flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
 
 
 remote_theme: "jekyll/minima@1e8a445"
@@ -13,13 +13,14 @@ plugins:
 
 minima:
   skin: solarized-light
-  date_format: "%b %-d, %Y"
- # nav_pages:
-  #  - butterflies.md
-  #  - photography.md
-  #  - odonates.md
-  #  - about.md
+  nav_pages:
+    - butterflies.md
+    - photography.md
+    - odonates.md
+    - about.md
     # - portfolio.md
+  show_excerpts: false
+  date_format: "%b %-d, %Y"
   social_links:
   - title: Natura Himalayas on Instagram
     icon: instagram
