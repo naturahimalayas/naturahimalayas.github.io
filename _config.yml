@@ -14,11 +14,11 @@ plugins:
 minima:
   skin: solarized-light
   date_format: "%b %-d, %Y"
-  nav_pages:
-    - butterflies.md
-    - photography.md
-    - odonates.md
-    - about.md
+ # nav_pages:
+  #  - butterflies.md
+  #  - photography.md
+  #  - odonates.md
+  #  - about.md
     # - portfolio.md
   social_links:
   - title: Natura Himalayas on Instagram
