@@ -15,6 +15,7 @@ minima:
   skin: solarized-light
 
   nav_pages:
+    - index.md
     - butterflies.md
     - odonates.md
     - photography.md
