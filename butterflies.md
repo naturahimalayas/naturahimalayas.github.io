@@ -9,5 +9,5 @@ Below, _Dichorragia nesimachus_ and _Celastrina lavendularis_ enjoying a meal, a
 
 _Leptosia nina_ resting on a flower bud.
 <figure>
-    <img src="files/psyche.JPG" width = 810px>
+    <img src="files/psyche.JPG" width="810">
 </figure>
