@@ -13,8 +13,8 @@ And there are stunning dragonflies and damselflies, too, like a _Libellago linea
 
 ![](files/libellago-lineata.JPG "A Libellago lineata, male damselfly")
 
----
-__Dr. Aaratrik Pal__
+
+### __Dr. Aaratrik Pal__
 
 __[Natura Himalayas](https://naturahimalayas.github.io)__
 
