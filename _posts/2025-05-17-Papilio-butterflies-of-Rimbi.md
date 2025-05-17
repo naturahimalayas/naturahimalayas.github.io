@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Aaratrik Pal
-comments: false
+author: Dr. Aaratrik Pal
+comments: true
 ---
 
 #### Common butterflies of the genus _Papilio_ from Rimbi, West Sikkim, India
