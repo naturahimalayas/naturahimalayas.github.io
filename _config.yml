@@ -1,7 +1,7 @@
 title: Natura Himalayas
 subtitle: Glimpage of Himalayan nature
 author:
-  name: Aaratrik Pal
+  name: Dr. Aaratrik Pal
   email: 
 description: About Himalayan biodiversity, focusing on flowering plants and flying jewels (butterflies, damselflies, and dragonflies).
 
@@ -22,7 +22,7 @@ minima:
     - about.md
     # - portfolio.md
 
-  show_excerpts: false
+  show_excerpts: true
 
   date_format: "%b %-d, %Y"
 
