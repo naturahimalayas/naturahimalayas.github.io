@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "_Papilio_ butterflies of Rimbi, Sikkim"
+title: "Swallowtail butterflies of Rimbi, Sikkim: Part 1"
 author: Dr. Aaratrik Pal
 comments: true
 ---
@@ -24,7 +24,7 @@ Again, UP of a Krishna Peacock butterfly.
 ![](/files/IMG_2028.JPG "UN of Krishna Peacock butterfly")
 Again, UN of a Krishna Peacock butterfly.
 
-Among other _Papilio_, _P. alcmenor_ and _P. bootes_ were present.
+Among others, _Papilio_, _P. alcmenor_ and _P. bootes_ were present.
 
 ![](/files/IMG_2115.JPG "Papilio alcmenor UP")
 UP of _Pailio alcmenor_ butterfly.
