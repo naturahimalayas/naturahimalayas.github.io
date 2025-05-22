@@ -5,7 +5,9 @@ author: Dr. Aaratrik Pal
 comments: true
 ---
 
-During a short field trip to Rimbi, a small village in Gyalshing district of Sikkim, in May, 2025, accompanied by Amit da, Bias di, and Subhajit da, guided by Sonam da, good activity of _Papilio_ swallowtail butterflies was observed.
+Rimbi, a small village in Gyalshing district of Sikkim, has recently gained popularity among butterfly enthusiasts, due to its rich natural landscapes and swallowtail butterfly diversity. However, situated close to the Kanchenjunga National Park, Rimbi also harbors butterflies of other types, including common and uncommon species.
+
+During a short field trip to Rimbi, in May, 2025, accompanied by Amit da, Bias di, and Subhajit da, and guided by Sonam da, very good activity of _Papilio_ swallowtail butterflies was observed in different natural landscapes of the swallowtail heaven.
 
 Among peacock butterflies, Blue Peacock (_Papilio arcturus_), Common Peacock (_Papilio bianor_), and Krishna Peacock (_Papilio krishna_), were found puddling on wet river beds.
 
