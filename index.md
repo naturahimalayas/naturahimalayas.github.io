@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Natura Himalayas - Exploring Himalayan biodiversity
 ---
 __Welcome!!__
 
