@@ -15,6 +15,9 @@ Among peacock butterflies, Blue Peacock (_Papilio arcturus_), Common Peacock (_P
 ![](/files/papilio-arcturus.JPG "UP of a Blue Peacock butterfly")
 Upper wing view (UP) of a Blue Peacock butterfly, showing the beautiful patterns of colors.
 
+![](/files/IMG_2097.JPG "UP of another Blue Peacock butterfly")
+Another individual of Blue Peacock.
+
 ![](/files/papilio-arcturus-un.JPG "UN view of a Blue Peacock butterfly")
 Underwing view (UN) of a Blue Peacock butterfly.
 
