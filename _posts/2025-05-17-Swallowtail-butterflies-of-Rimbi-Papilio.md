@@ -15,24 +15,24 @@ Among peacock butterflies, Blue Peacock (_Papilio arcturus_), Common Peacock (_P
 ![](/files/papilio-arcturus.JPG "UP of a Blue Peacock butterfly")
 Upper wing view (UP) of a Blue Peacock butterfly, showing the beautiful patterns of colors.
 
-![](/files/IMG_2097.JPG "UP of another Blue Peacock butterfly")
+![](/files/papilio-arcturus-up.JPG "UP of another Blue Peacock butterfly")
 Another individual of Blue Peacock.
 
 ![](/files/papilio-arcturus-un.JPG "UN view of a Blue Peacock butterfly")
 Underwing view (UN) of a Blue Peacock butterfly.
 
-![](/files/IMG_2052.JPG "UP of a Common Peacock butterfly")
+![](/files/papilio-bianor-up.JPG "UP of a Common Peacock butterfly")
 UP of a Common Peacock butterfly.
 
 ![](/files/papilio-krishna.JPG "A Krishna Peacock butterfly")
 Again, UP of a Krishna Peacock butterfly.
 
-![](/files/IMG_2028.JPG "UN of Krishna Peacock butterfly")
+![](/files/papilio-krishna-un.JPG "UN of Krishna Peacock butterfly")
 Again, UN of a Krishna Peacock butterfly.
 
 Among others, _Papilio_, _P. alcmenor_ and _P. bootes_ were present.
 
-![](/files/IMG_2115.JPG "Papilio alcmenor UP")
+![](/files/papilio-alcmenor-up.JPG "Papilio alcmenor UP")
 UP of _Pailio alcmenor_ butterfly.
 
 ![](/files/papilio-janaka.JPG "Duo Papilio janaka butterflies")
