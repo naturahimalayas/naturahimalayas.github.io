@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One day tour to Gorumara NP"
+title: "A short visit to Gorumara NP"
 author: Dr. Aaratrik Pal
 tags: blog Lataguri West Bengal butterflies nawabs
 comments: true
